@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/idk-mann/quote-generate.git/static/css/main.490f38f8.css",
+    "main.js": "/idk-mann/quote-generate.git/static/js/main.e88c5601.js",
+    "static/js/453.4db426b7.chunk.js": "/idk-mann/quote-generate.git/static/js/453.4db426b7.chunk.js",
+    "index.html": "/idk-mann/quote-generate.git/index.html",
+    "main.490f38f8.css.map": "/idk-mann/quote-generate.git/static/css/main.490f38f8.css.map",
+    "main.e88c5601.js.map": "/idk-mann/quote-generate.git/static/js/main.e88c5601.js.map",
+    "453.4db426b7.chunk.js.map": "/idk-mann/quote-generate.git/static/js/453.4db426b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490f38f8.css",
+    "static/js/main.e88c5601.js"
+  ]
+}
